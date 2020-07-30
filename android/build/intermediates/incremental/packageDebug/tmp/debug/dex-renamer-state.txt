@@ -1,0 +1,4 @@
+#Thu Jul 30 15:02:31 JST 2020
+base.0=/Users/takimotokento/Documents/JumpActionGame2/android/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
